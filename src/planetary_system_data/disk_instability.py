@@ -14,6 +14,22 @@ from stellar_multiplicity import Number_of_Stars
 from dice import threeD6
 from protoplanetary_disk import Disk_Mass_Modifier_Star_A, Disk_Mass_Modifier_Star_B, Disk_Mass_Modifier_Star_C, Disk_Mass_Modifier_Star_D
 
+if Number_of_Stars >= 1:
+    from protoplanetary_disk import formation_orbit_16_for_Star_A, formation_orbit_15_for_Star_A, formation_orbit_14_for_Star_A, formation_orbit_13_for_Star_A, formation_orbit_12_for_Star_A, formation_orbit_11_for_Star_A, formation_orbit_10_for_Star_A, formation_orbit_9_for_Star_A, formation_orbit_8_for_Star_A, formation_orbit_7_for_Star_A
+    from protoplanetary_disk import Radius_of_Inner_Edge_of_Forbidden_Zone_for_Star_A
+
+if Number_of_Stars >= 2:
+    from protoplanetary_disk import formation_orbit_16_for_Star_B, formation_orbit_15_for_Star_B, formation_orbit_14_for_Star_B, formation_orbit_13_for_Star_B, formation_orbit_12_for_Star_B, formation_orbit_11_for_Star_B, formation_orbit_10_for_Star_B, formation_orbit_9_for_Star_B, formation_orbit_8_for_Star_B, formation_orbit_7_for_Star_B
+    from protoplanetary_disk import Radius_of_Inner_Edge_of_Forbidden_Zone_for_Star_B
+
+if Number_of_Stars >= 3:
+    from protoplanetary_disk import formation_orbit_16_for_Star_C, formation_orbit_15_for_Star_C, formation_orbit_14_for_Star_C, formation_orbit_13_for_Star_C, formation_orbit_12_for_Star_C, formation_orbit_11_for_Star_C, formation_orbit_10_for_Star_C, formation_orbit_9_for_Star_C, formation_orbit_8_for_Star_C, formation_orbit_7_for_Star_C
+    from protoplanetary_disk import Radius_of_Inner_Edge_of_Forbidden_Zone_for_Star_C
+
+if Number_of_Stars == 4:
+    from protoplanetary_disk import formation_orbit_16_for_Star_D, formation_orbit_15_for_Star_D, formation_orbit_14_for_Star_D, formation_orbit_13_for_Star_D, formation_orbit_12_for_Star_D, formation_orbit_11_for_Star_D, formation_orbit_10_for_Star_D, formation_orbit_9_for_Star_D, formation_orbit_8_for_Star_D, formation_orbit_7_for_Star_D
+    from protoplanetary_disk import Radius_of_Inner_Edge_of_Forbidden_Zone_for_Star_D
+
 Disk_Stability_for_Star_A = "TBD"
 if Number_of_Stars >= 1:
     Disk_Stability_for_Star_A = "Stable"
@@ -195,7 +211,7 @@ if Disk_Stability_for_Star_A == "Unstable":
                     if formation_orbit_16_for_Star_A <= Radius_of_Inner_Edge_of_Forbidden_Zone_for_Star_A:
                         Star_A_Protoplanet_16_Flag = "Disk Instability Planet"
 
-    if Disk_Stability_for_Star_B == "Unstable":
+if Disk_Stability_for_Star_B == "Unstable":
         # "If disk instability has taken place, roll 3d6 twice on the Disk Instability Placement Table, adding the disk mass modifier each time. The first roll will indicate in which formation orbit
         # the first planet may be placed. The second roll will indicate how many planets may be formed during this step." - pg 61
 
