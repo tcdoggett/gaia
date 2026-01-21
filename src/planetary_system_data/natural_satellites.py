@@ -1,21 +1,21 @@
-# this sub-program covers step 17 ("Natural Satellites") from Zeigler, 2024 - "Architect of Worlds: Comprehensive World Design 
-# for Interstellar Fiction" - starting from pg. 83
+# this sub-program covers step 17 ("Natural Satellites") from Zeigler, 2024 - "Architect of Worlds: Comprehensive World 
+# Design for Interstellar Fiction" - starting from pg. 83
 
-# "This step determines the number and placement of major satellites. We define a major satellite as a natural satellite which 
-# is large enough to have formed a sphere under its own gravitation. A major satellite will be at least 200 kilometers in 
-# radius if it is mostly made of ice, or at least 300 kilometers in radius if it is mostly stone."
+# "This step determines the number and placement of major satellites. We define a major satellite as a natural satellite 
+# which is large enough to have formed a sphere under its own gravitation. A major satellite will be at least 200 kilometers 
+# in radius if it is mostly made of ice, or at least 300 kilometers in radius if it is mostly stone."
 
 # "In general, the rocky planets close to a star are unlikely to form major satellites during the process of planetary 
-# accretion. A terrestrial planet which suffers a specific kind of massive impact event may form one major satellite, as the 
-# planetary material scattered into orbit coalesces. Gas giant planets are likely to have several major satellites. For 
-# example, planets with major satellites in our own system include Earth (1), Jupiter (4), Saturn (7), Uranus (5), and 
+# accretion. A terrestrial planet which suffers a specific kind of massive impact event may form one major satellite, as 
+# the planetary material scattered into orbit coalesces. Gas giant planets are likely to have several major satellites. 
+# For example, planets with major satellites in our own system include Earth (1), Jupiter (4), Saturn (7), Uranus (5), and 
 # Neptune (1)."
 
 # "Many planets will also have moonlets, much smaller satellites that are often irregular in shape. Some moonlets may be 
-# remnants of the process of planetary formation. Others are likely to be captured asteroids or comets. Even small objects may 
-# have moonlets of their own. In our system, the planet Mars has two moonlets, and many asteroids and Kuiper Belt objects have 
-# been found to have moonlets of their own. A gas giant planet will often have dozens or even hundreds of moonlets in a wide 
-# variety of orbits."
+# remnants of the process of planetary formation. Others are likely to be captured asteroids or comets. Even small objects 
+# may have moonlets of their own. In our system, the planet Mars has two moonlets, and many asteroids and Kuiper Belt objects 
+# have been found to have moonlets of their own. A gas giant planet will often have dozens or even hundreds of moonlets in a 
+# wide variety of orbits."
 
 # Procedure
 
@@ -39,20 +39,21 @@
 
 # Codify Equation on Page 84
 
-# "H is the Hill radius in kilometers, and R is the average distance from the planet to its primary star in AU. Round N down to 
-# the next integer. If the result is greater than 0, then the planet will have one or more major satellites that formed with 
-# the planet itself. No planet is likely to have more than about 8 major satellites."
+# "H is the Hill radius in kilometers, and R is the average distance from the planet to its primary star in AU. Round N down 
+# to the next integer. If the result is greater than 0, then the planet will have one or more major satellites that formed 
+# with the planet itself. No planet is likely to have more than about 8 major satellites."
 
-# "If N is greater than 0, feel free to adjust it upward or downward by up to 2, so long as the result is still greater than 0 
-# and no greater than 8. To make this adjustment at random, roll 1d6: subtract 2 from N (minimum 1) on a result of 1, subtract 
-# 1 from N (minimum 1) on a result of 2, add 1 to N (maximum 8) on a result of 5, and add 2 to N (maximum 8) on a result of 6.
+# "If N is greater than 0, feel free to adjust it upward or downward by up to 2, so long as the result is still greater than 
+# 0 and no greater than 8. To make this adjustment at random, roll 1d6: subtract 2 from N (minimum 1) on a result of 1, 
+# subtract 1 from N (minimum 1) on a result of 2, add 1 to N (maximum 8) on a result of 5, and add 2 to N (maximum 8) on a 
+# result of 6.
 
 # "The innermost major satellite will have an orbital radius equal to about 1d+2 times the radius of the planet. Vary this 
 # result by up to 10%."
 
 # "Major satellites after the innermost can be placed using the Major Satellite Orbital Ratio Table. For each major satellite 
-# proceeding outward, make a roll on the table and multiply the previous orbital radius by the indicated ratio. If a result on 
-# the table does not yield an orbital resonance, feel free to select any value for the ratio between the next lower and next 
+# proceeding outward, make a roll on the table and multiply the previous orbital radius by the indicated ratio. If a result 
+# on the table does not yield an orbital resonance, feel free to select any value for the ratio between the next lower and next 
 # higher entries. If a result on the table does yield an orbital resonance, apply exactly that ratio between satellite orbits. 
 # As when placing planets, 2:1 Laplace resonances must occur in stacks of at least two. If this is not possible, adjust the 
 # last ratio to be exactly 1.60."
