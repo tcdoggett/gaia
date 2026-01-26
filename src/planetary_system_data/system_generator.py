@@ -66,3 +66,5 @@ print(f"Metallicity: {Metallicity}")
 # run oligarchic_collison.py here
 
 # run planet_generator.py for each planet created by the steps above
+
+# output results to test_output.txt (inputing into output_template.txt)
