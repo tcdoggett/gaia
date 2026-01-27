@@ -1,0 +1,10 @@
+<table>
+<tr></tr>
+<tr><td>System Name</td><td>{{SYSTEM NAME}}</td></tr>
+<tr></tr>
+<tr><td>System Age (Ga)</td><td>{{SYSTEM AGE}}</td></tr>
+<tr></tr>
+<tr><td>Metallicity</td></td>{{METALLICITY}}</td></tr>
+<tr></tr>
+<tr><td>Number of Stars</td><td>{{STAR NUMBER}}</td></tr>
+</table>
