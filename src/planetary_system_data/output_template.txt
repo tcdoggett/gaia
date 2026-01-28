@@ -1,10 +1,68 @@
+[accordion]
+[accordion-item] [title] System Parameters [end-title] [content]  
 <table>
 <tr></tr>
-<tr><td>System Name</td><td>{{SYSTEM NAME}}</td></tr>
+<tr><td>*System Name*</td><td>{{SYSTEM NAME}}</td><td>*Parent Sector*</td><td>{{SECTOR NAME}}</td></tr>
 <tr></tr>
-<tr><td>System Age (Ga)</td><td>{{SYSTEM AGE}}</td></tr>
+<tr><td>*Number of Components*</td><td>{{STAR NUMBER}}</td><td>*Cartesian Coordinates*</td><td>({{X}},{{Y}},{{Z}})</td></tr>
 <tr></tr>
-<tr><td>Metallicity</td></td>{{METALLICITY}}</td></tr>
-<tr></tr>
-<tr><td>Number of Stars</td><td>{{STAR NUMBER}}</td></tr>
+<tr><td>*System Age* (Ga)</td><td>{{SYSTEM AGE}}</td><td>*Metallicity* (Z<sub>☉</sub>)</td><td>{{METALLICITY}}</td></tr>
 </table>
+[end-content] [end-accordion-item]
+[accordion-item] [title] A-Component [end-title] [content]  
+<table>
+<tr></tr>
+<tr><td>Mass</td><td>{{MASS A}}</td><td>*Main Sequence Lifespan* (Ga)</td><td>{{PARAMETER}}</td></tr>
+<tr></tr>
+<tr><td>Current Luminosity</td><td>{{LUMINOSITY A}}</td><td>Initial Luminosity</td><td>{{PARAMETER}}</td></tr>
+<tr></tr>
+<tr><td>Effective Temperature</td><td>{{PARAMETER}}</td><td>Luminosity Growth Rate</td><td>{{PARAMETER}}</td></tr>
+<tr></tr>
+<tr><td>Radius</td><td>{{RADIUS A}}</td><td>Initial Effective Temperature</td><td>{{PARAMETER}}</td></tr>
+<tr></tr>
+<tr><td>Spectral Classification</td><td>{{PARAMETER}}</td><td>Final Effective Temperature</td><td>{{PARAMETER}}</td></tr>
+</table>
+[end-content] [end-accordion-item]
+[accordion-item] [title] B-Component [end-title] [content]  
+<table>
+<tr></tr>
+<tr><td>Mass</td><td>{{MASS B}}</td><td>*Main Sequence Lifespan* (Ga)</td><td>{{PARAMETER}}</td></tr>
+<tr></tr>
+<tr><td>Current Luminosity</td><td>{{LUMINOSITY B}}</td><td>Initial Luminosity</td><td>{{PARAMETER}}</td></tr>
+<tr></tr>
+<tr><td>Effective Temperature</td><td>{{PARAMETER}}</td><td>Luminosity Growth Rate</td><td>{{PARAMETER}}</td></tr>
+<tr></tr>
+<tr><td>Radius</td><td>{{RADIUS B}}</td><td>Initial Effective Temperature</td><td>{{PARAMETER}}</td></tr>
+<tr></tr>
+<tr><td>Spectral Classification</td><td>{{PARAMETER}}</td><td>Final Effective Temperature</td><td>{{PARAMETER}}</td></tr>
+</table>
+[end-content] [end-accordion-item]
+[accordion-item] [title] C-Component [end-title] [content]  
+<table>
+<tr></tr>
+<tr><td>Mass</td><td>{{MASS C}}</td><td>*Main Sequence Lifespan* (Ga)</td><td>{{PARAMETER}}</td></tr>
+<tr></tr>
+<tr><td>Current Luminosity</td><td>{{LUMINOSITY C}}</td><td>Initial Luminosity</td><td>{{PARAMETER}}</td></tr>
+<tr></tr>
+<tr><td>Effective Temperature</td><td>{{PARAMETER}}</td><td>Luminosity Growth Rate</td><td>{{PARAMETER}}</td></tr>
+<tr></tr>
+<tr><td>Radius</td><td>{{RADIUS C}}</td><td>Initial Effective Temperature</td><td>{{PARAMETER}}</td></tr>
+<tr></tr>
+<tr><td>Spectral Classification</td><td>{{PARAMETER}}</td><td>Final Effective Temperature</td><td>{{PARAMETER}}</td></tr>
+</table>
+[end-content] [end-accordion-item]
+[accordion-item] [title] D-Component [end-title] [content]  
+<table>
+<tr></tr>
+<tr><td>Mass</td><td>{{MASS D}}</td><td>*Main Sequence Lifespan* (Ga)</td><td>{{PARAMETER}}</td></tr>
+<tr></tr>
+<tr><td>Current Luminosity</td><td>{{LUMINOSITY D}}</td><td>Initial Luminosity</td><td>{{PARAMETER}}</td></tr>
+<tr></tr>
+<tr><td>Effective Temperature</td><td>{{PARAMETER}}</td><td>Luminosity Growth Rate</td><td>{{PARAMETER}}</td></tr>
+<tr></tr>
+<tr><td>Radius</td><td>{{RADIUS D}}</td><td>Initial Effective Temperature</td><td>{{PARAMETER}}</td></tr>
+<tr></tr>
+<tr><td>Spectral Classification</td><td>{{PARAMETER}}</td><td>Final Effective Temperature</td><td>{{PARAMETER}}</td></tr>
+</table>
+[end-content] [end-accordion-item]
+[end-accordion]
