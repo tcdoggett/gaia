@@ -1,14 +1,11 @@
-
 from dataclasses import dataclass
 from enum import StrEnum
-
 
 class StarCategory(StrEnum):
     BROWN_DWARF = "Brown Dwarf"
     LOW_MASS_STAR = "Low Mass Star"
     INTERMEDIATE_MASS_STAR = "Intermediate Mass Star"
     HIGH_MASS_STAR = "High Mass Star"
-
 
 class StellarArrangement(StrEnum):
     SINGLE = "A"
@@ -17,7 +14,6 @@ class StellarArrangement(StrEnum):
     TRINARY_CLOSE_PAIR = "AB-C"
     QUATERNARY = "AB-CD"
 
-
 class StellarEvolutionStage(StrEnum):
     MAIN_SEQUENCE = "Main Sequence"
     SUBGIANT = "Subgiant"
@@ -25,14 +21,12 @@ class StellarEvolutionStage(StrEnum):
     HORIZONTAL_BRANCH = "Horizontal Branch"
     WHITE_DWARF = "White Dwarf"
 
-
 class StellarPopulation(StrEnum):
     YOUNG_POPULATION_I = "Young Population I"
     INTERMEDIATE_POPULATION = "Intermediate Population"
     OLD_POPULATION_I = "Old Population I"
     DISK_POPULATION_II = "Disk Population II"
     HALO_POPULATION_II = "Halo Population II"
-
 
 @dataclass
 class Star:
@@ -51,7 +45,6 @@ class Star:
     evolutionary_stage: StellarEvolutionStage | None = None
     age: float | None = None  # in billion years
     
-
 @dataclass
 class StarSystem:
     stars: list[Star]
@@ -62,4 +55,3 @@ class StarSystem:
     habitable_zone_inner: float | None = None  # in AU
     habitable_zone_outer: float | None = None  # in AU
     has_habitable_zone: bool | None = None
-    
