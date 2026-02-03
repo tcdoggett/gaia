@@ -2,9 +2,9 @@
 [accordion-item] [title] System Parameters [end-title] [content]  
 <table>
 <tr></tr>
-<tr><td>*System Name*</td><td>{{SYSTEM NAME}}</td><td>*Parent Sector*</td><td>{{SECTOR NAME}}</td></tr>
+<tr><td>*System Name*</td><td>{{SYSTEM_NAME}}</td><td>*Parent Sector*</td><td>{{SECTOR_NAME}}</td></tr>
 <tr></tr>
-<tr><td>*Number of Components*</td><td>{{STAR NUMBER}}</td><td>*Cartesian Coordinates*</td><td>({{X}},{{Y}},{{Z}})</td></tr>
+<tr><td>*Number of Components*</td><td>{{STAR_NUMBER}}</td><td>*Cartesian Coordinates*</td><td>({{X}},{{Y}},{{Z}})</td></tr>
 <tr></tr>
 <tr><td>*System Age* (Ga)</td><td>{{SYSTEM AGE}}</td><td>*Metallicity* (Z<sub>☉</sub>)</td><td>{{METALLICITY}}</td></tr>
 </table>
@@ -14,55 +14,55 @@
 <tr></tr>
 <tr><td>*Mass* (M<sub>☉</sub>)</td><td>{{MASS A}}</td><td>*Main Sequence Lifespan* (Ga)</td><td>{{PARAMETER}}</td></tr>
 <tr></tr>
-<tr><td>*Current Luminosity* (L<sub>☉</sub>)</td><td>{{LUMINOSITY A}}</td><td>*Initial Luminosity* (L<sub>☉</sub>)</td><td>{{PARAMETER}}</td></tr>
+<tr><td>*Current Luminosity* (L<sub>☉</sub>)</td><td>{{LUMINOSITY_A}}</td><td>*Initial Luminosity* (L<sub>☉</sub>)</td><td>{{PARAMETER}}</td></tr>
 <tr></tr>
-<tr><td>*Effective Temperature* (K)</td><td>{{PARAMETER}}</td><td>*Luminosity Growth Rate*</td><td>{{PARAMETER}}</td></tr>
+<tr><td>*Effective Temperature* (K)</td><td>{{EFF_TEMP_A}}</td><td>*Luminosity Growth Rate*</td><td>{{PARAMETER}}</td></tr>
 <tr></tr>
 <tr><td>*Radius*</td><td>{{RADIUS A}}</td><td>*Initial Effective Temperature* (K)</td><td>{{PARAMETER}}</td></tr>
 <tr></tr>
-<tr><td>*Spectral Classification*</td><td>{{SPEC TYPE A}}</td><td>*Final Effective Temperature* (K)</td><td>{{PARAMETER}}</td></tr>
+<tr><td>*Spectral Classification*</td><td>{{SPEC_TYPE_A}}</td><td>*Final Effective Temperature* (K)</td><td>{{PARAMETER}}</td></tr>
 </table>
 [end-content] [end-accordion-item]
 [accordion-item] [title] B-Component [end-title] [content]  
 <table>
 <tr></tr>
-<tr><td>*Mass* (M<sub>☉</sub>)</td><td>{{MASS B}}</td><td>*Main Sequence Lifespan* (Ga)</td><td>{{PARAMETER}}</td></tr>
+<tr><td>*Mass* (M<sub>☉</sub>)</td><td>{{MASS_B}}</td><td>*Main Sequence Lifespan* (Ga)</td><td>{{PARAMETER}}</td></tr>
 <tr></tr>
-<tr><td>*Current Luminosity* (L<sub>☉</sub>)</td><td>{{LUMINOSITY B}}</td><td>*Initial Luminosity* (L<sub>☉</sub>)</td><td>{{PARAMETER}}</td></tr>
+<tr><td>*Current Luminosity* (L<sub>☉</sub>)</td><td>{{LUMINOSITY_B}}</td><td>*Initial Luminosity* (L<sub>☉</sub>)</td><td>{{PARAMETER}}</td></tr>
 <tr></tr>
-<tr><td>*Effective Temperature* (K)</td><td>{{PARAMETER}}</td><td>*Luminosity Growth Rate*</td><td>{{PARAMETER}}</td></tr>
+<tr><td>*Effective Temperature* (K)</td><td>{{EFF_TEMP_B}}</td><td>*Luminosity Growth Rate*</td><td>{{PARAMETER}}</td></tr>
 <tr></tr>
-<tr><td>*Radius*</td><td>{{RADIUS B}}</td><td>*Initial Effective Temperature* (K)</td><td>{{PARAMETER}}</td></tr>
+<tr><td>*Radius*</td><td>{{RADIUS_B}}</td><td>*Initial Effective Temperature* (K)</td><td>{{PARAMETER}}</td></tr>
 <tr></tr>
-<tr><td>*Spectral Classification*</td><td>{{SPEC TYPE B}}</td><td>*Final Effective Temperature* (K)</td><td>{{PARAMETER}}</td></tr>
+<tr><td>*Spectral Classification*</td><td>{{SPEC_TYPE_B}}</td><td>*Final Effective Temperature* (K)</td><td>{{PARAMETER}}</td></tr>
 </table>
 [end-content] [end-accordion-item]
 [accordion-item] [title] C-Component [end-title] [content]  
 <table>
 <tr></tr>
-<tr><td>*Mass* (M<sub>☉</sub>)</td><td>{{MASS C}}</td><td>*Main Sequence Lifespan* (Ga)</td><td>{{PARAMETER}}</td></tr>
+<tr><td>*Mass* (M<sub>☉</sub>)</td><td>{{MASS_C}}</td><td>*Main Sequence Lifespan* (Ga)</td><td>{{PARAMETER}}</td></tr>
 <tr></tr>
-<tr><td>*Current Luminosity* (L<sub>☉</sub>)</td><td>{{LUMINOSITY C}}</td><td>*Initial Luminosity* (L<sub>☉</sub>)</td><td>{{PARAMETER}}</td></tr>
+<tr><td>*Current Luminosity* (L<sub>☉</sub>)</td><td>{{LUMINOSITY_C}}</td><td>*Initial Luminosity* (L<sub>☉</sub>)</td><td>{{PARAMETER}}</td></tr>
 <tr></tr>
-<tr><td>*Effective Temperature* (K)</td><td>{{PARAMETER}}</td><td>*Luminosity Growth Rate*</td><td>{{PARAMETER}}</td></tr>
+<tr><td>*Effective Temperature* (K)</td><td>{{EFF_TEMP_C}}</td><td>*Luminosity Growth Rate*</td><td>{{PARAMETER}}</td></tr>
 <tr></tr>
-<tr><td>*Radius*</td><td>{{RADIUS C}}</td><td>*Initial Effective Temperature* (K)</td><td>{{PARAMETER}}</td></tr>
+<tr><td>*Radius*</td><td>{{RADIUS_C}}</td><td>*Initial Effective Temperature* (K)</td><td>{{PARAMETER}}</td></tr>
 <tr></tr>
-<tr><td>*Spectral Classification*</td><td>{{SPEC TYPE C}}</td><td>*Final Effective Temperature* (K)</td><td>{{PARAMETER}}</td></tr>
+<tr><td>*Spectral Classification*</td><td>{{SPEC_TYPE_C}}</td><td>*Final Effective Temperature* (K)</td><td>{{PARAMETER}}</td></tr>
 </table>
 [end-content] [end-accordion-item]
 [accordion-item] [title] D-Component [end-title] [content]  
 <table>
 <tr></tr>
-<tr><td>*Mass* (M<sub>☉</sub>)</td><td>{{MASS D}}</td><td>*Main Sequence Lifespan* (Ga)</td><td>{{PARAMETER}}</td></tr>
+<tr><td>*Mass* (M<sub>☉</sub>)</td><td>{{MASS_D}}</td><td>*Main Sequence Lifespan* (Ga)</td><td>{{PARAMETER}}</td></tr>
 <tr></tr>
-<tr><td>*Current Luminosity* (L<sub>☉</sub>)</td><td>{{LUMINOSITY D}}</td><td>*Initial Luminosity* (L<sub>☉</sub>)</td><td>{{PARAMETER}}</td></tr>
+<tr><td>*Current Luminosity* (L<sub>☉</sub>)</td><td>{{LUMINOSITY_D}}</td><td>*Initial Luminosity* (L<sub>☉</sub>)</td><td>{{PARAMETER}}</td></tr>
 <tr></tr>
-<tr><td>*Effective Temperature* (K)</td><td>{{PARAMETER}}</td><td>*Luminosity Growth Rate*</td><td>{{PARAMETER}}</td></tr>
+<tr><td>*Effective Temperature* (K)</td><td>{{EFF_TEMP_D}}</td><td>*Luminosity Growth Rate*</td><td>{{PARAMETER}}</td></tr>
 <tr></tr>
-<tr><td>*Radius*</td><td>{{RADIUS D}}</td><td>*Initial Effective Temperature* (K)</td><td>{{PARAMETER}}</td></tr>
+<tr><td>*Radius*</td><td>{{RADIUS_D}}</td><td>*Initial Effective Temperature* (K)</td><td>{{PARAMETER}}</td></tr>
 <tr></tr>
-<tr><td>*Spectral Classification*</td><td>{{SPEC TYPE D}}</td><td>*Final Effective Temperature* (K)</td><td>{{PARAMETER}}</td></tr>
+<tr><td>*Spectral Classification*</td><td>{{SPEC_TYPE_D}}</td><td>*Final Effective Temperature* (K)</td><td>{{PARAMETER}}</td></tr>
 </table>
 [end-content] [end-accordion-item]
 [end-accordion]
