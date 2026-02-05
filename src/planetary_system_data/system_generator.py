@@ -10,6 +10,11 @@
 # e.g. in these cases there will be both IRL known exoplanets in the system + fair to assume that there are other undetected 
 # exoplanets for which fictional but realistic stand-ins can be created here
 
+# Step 0: Load Known System Parameters
+# refer to system_parameters.csv which contains known properties of real stars (e.g. mass, age, spectral type)
+# following steps will only run if parameter field is blank
+# user story: need to track if a parameter is inputed / real or generated procedurally
+
 # Step 1: Primary Star Mass
 
 from primary_star_mass import generate_primary_star
