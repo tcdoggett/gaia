@@ -1,2 +1,14 @@
-System Name,Number of Stars
-Alpha Centauri,3
+System Name,Number of Stars,Spectral Type 1,Spectral Type 2,Spectral Type 3,Spectral Type 4,System Age,System Metallicity
+Theta Ursae Majoris,1,F7V,,,,,
+Chi Draconis,2,F7V,K0V,,,,
+Chara,1,G0V,,,,,
+Sigma Draconis,1,K0V,,,,,
+Vega,1,,,,,,
+Gamma Serpentis,1,,,,,,
+Lambda Serpentis,1,,,,,,
+Beta Comae Berenices,1,,,,,,
+Mu Herculis,4,,,,,,
+,,,,,,,
+,,,,,,,
+Alpha Centauri,3,G2V,K1V,M6V,,,
+ ,,,,,,,
