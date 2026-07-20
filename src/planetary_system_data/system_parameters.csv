@@ -77,7 +77,8 @@ HD 131977,,,,HD 131977,,1,,,,K4V,,,,,,,,,,,,,,,
 HD 120036,,,,HD 120036,,2,,,,K6V,K7V,,,,,,,,,,,,,,
 HD 120467,,,,HD 120467,,1,,,,K6V,,,,,,,,,,,,,,,
  ,,,,,,,,,,,,,,,,,,,,,,,,,
-Acamar,Theta,,Eridani,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
+Acamar,Theta-1,,Eridani,HD 18622,,2,0.725, , ,A3IV, , , ,2.33,4.3,7600,2.19,3.95,7800,,,,  , , 
+,Theta-2,,Eridani,HD 18623,,1,0.63,,,A1V,,,,2.3,3.2,8300,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 Achernar,Alpha,,Eridani,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
 ,,,,,,,,,,,,,,,,,,,,,,,,,
