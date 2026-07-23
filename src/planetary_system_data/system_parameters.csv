@@ -79,16 +79,13 @@ HD 120467,,,,HD 120467,,1,,,,K6V,,,,,,,,,,,,,,,
  ,,,,,,,,,,,,,,,,,,,,,,,,,
 Acamar,Theta-1,,Eridani,HD 18622,,2,0.725, , ,A3IV, , , ,2.33,4.3,7600,2.19,3.95,7800,,,,  , , 
 ,Theta-2,,Eridani,HD 18623,,1,0.63,,,A1V,,,,2.3,3.2,8300,,,,,,,,,
-,,,,,,,,,,,,,,, , ,,,,,,,,,
 Achernar,Alpha,,Eridani,,,2,0.063, , ,B3Vpe,A1V-A3V, , ,6,7.97,14898.5,2,1.7,9064, , , , ,  , 
-,,,,,,,,,,,,,,,,,,,,,,Ac,,,
 Achird,Eta,,Cassiopeiae,,,2,5.4,-0.26,Y,G0V,K7V, , ,1.0258,1.0336,6012,0.5487,0.57,4011, ,  , ,  , , 
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Acrab,Beta,,Scorpii,,,4,0.0063, , ,B1V, ,B2V, ,15,6.3,28000,10.4,4,26400,8.2,2.9,24000,3.5,2.4,13000
 ,,,,,,,,,,,,,,,,,,,,,,,,,
-Acrux,Alpha,,Crucis,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
+Acrux,Alpha,,Crucis,,,7,{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
 ,,,,,,,,,,,,,,,,,,,,,,,,,
-Acubens,Alpha,,Cancri,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
+Acubens,Alpha,,Cancri,,,2, , , ,kA7VmF0/2III/IVS, , , ,2.1,3.655,7943,0.38,0.67,4205, , , ,  , , 
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 Adhafera,Zeta,,Leonis,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
 ,,,,,,,,,,,,,,,,,,,,,,,,,
