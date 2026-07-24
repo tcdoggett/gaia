@@ -82,207 +82,108 @@ Acamar,Theta-1,,Eridani,HD 18622,,2,0.725, , ,A3IV, , , ,2.33,4.3,7600,2.19,3.95
 Achernar,Alpha,,Eridani,,,2,0.063, , ,B3Vpe,A1V-A3V, , ,6,7.97,14898.5,2,1.7,9064, , , , ,  , 
 Achird,Eta,,Cassiopeiae,,,2,5.4,-0.26,Y,G0V,K7V, , ,1.0258,1.0336,6012,0.5487,0.57,4011, ,  , ,  , , 
 Acrab,Beta,,Scorpii,,,4,0.0063, , ,B1V, ,B2V, ,15,6.3,28000,10.4,4,26400,8.2,2.9,24000,3.5,2.4,13000
+Acubens,Alpha,,Cancri,,,2, , , ,kA7VmF0/2III/IVS, , , ,2.1,3.655,7943,0.38,0.67,4205, , , ,  , , 
+Adhafera,Zeta,,Leonis,,,1, ,-0.03, ,F0III, , , ,3,10.5,6900, ,  , , , , , , , 
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 Acrux,Alpha,,Crucis,,,7,{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
-Acubens,Alpha,,Cancri,,,2, , , ,kA7VmF0/2III/IVS, , , ,2.1,3.655,7943,0.38,0.67,4205, , , ,  , , 
-,,,,,,,,,,,,,,,,,,,,,,,,,
-Adhafera,Zeta,,Leonis,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Adhara,Epsilon,,Canis Majoris,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Adhil,Xi,,Andromedae,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Ain,Epsilon,,Tauri,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Ainalrami,Nu-1,,Sagittarii,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Aiolos,,,,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Aladfar,Eta,,Lyrae,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,, ,,,,,,,,,,,,,,,,,,,
 Alasia,,,,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Alathfar,Mu,,Lyrae,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Alaybasan,Beta,,Trianguli,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Albaldah,Pi,,Sagittarii,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Albali,Epsilon,,Aquarii,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Albireo,Beta,,Cygni,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,, ,,,,,,,,,,,,,
 Alchiba,Alpha,,Corvi,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Alcor,,80,Ursae Majoris,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Alcyone,Eta,,Tauri,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Aldebaran,Alpha,,Tauri,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Alderamin,Alpha,,Cephei,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Aldhanab,Gamma,,Gruis,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Aldhibah,Zeta,,Draconis,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Aldu,Epsilon,,Persei,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Aldulfin,Epsilon,,Delphini,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Alfarasalkamil,Omicron,,Andromedae,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Alfirk,Beta,,Cephei,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Algedi,Alpha-2,,Capricorni,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Algenib,Gamma,,Pegasi,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Algieba,Gamma,,Leonis,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Algol,Beta,,Persei,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Algorab,Delta,,Corvi,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Alhena,Gamma,,Geminorum,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Alioth,Epsilon,,Ursae Majoris,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Aljanah,Epsilon,,Cygni,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Alkaid,Eta,,Ursae Majoris,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Alkalurops,Mu-1,,Bootis,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Alkaphrah,Kappa,,Ursae Majoris,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Alkarab,Upsilon,,Pegasi,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Alkes,Alpha,,Crateris,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Almaaz,Epsilon,,Aurigae,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 Almach,Gamma,,Andromedae,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Al Minliar al Asad,Kappa,,Leonis,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Alnair,Alpha,,Gruis,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Alnasl,Gamma-2,,Sagittarii,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Alnilam,Epsilon,,Orionis,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Alnitak,Zeta,50,Orionis,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Alniyat,Sigma,20,Scorpii,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Alphard,Alpha,30,Hydrae,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Alphecca,Alpha,5,Coronae Borealis,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Alpheratz,Alpha,,Andromedae,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Alpherg,Eta,99,Piscium,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Alrakis,Mu,21,Draconis,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Alrescha,Alpha,113,Piscium,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Alruba,,,,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Alrumh,,34,Bootis,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Alsciaukat,,31,Lyncis,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Alsephina,Delta,,Velorum,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Alshain,Beta,,Aquilae,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Alshat,Nu,,Capricorni,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Altais,Delta,,Draconis,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Alterf,Lambda,,Leonis,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Aludra,Eta,,Canis Majoris,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Alula Australis,Xi,,Ursae Majoris,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Alula Borealis,Nu,,Ursae Majoris,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Alya,Theta,,Serpentis,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Alzirr,Xi,,Geminorum,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Amadioha,,,,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Amansinaya,,,,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Anadolu,,,,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Ananuca,,,,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Ancha,Theta,,Aquarii,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Angetenar,Tau-2,,Eridani,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Aniara,,,,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Ankaa,Alpha,,Phoenicis,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Anser,Alpha,,Vulpeculae,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Antares,Alpha,,Scorpii,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,, ,,,,,,,,,,,,,,,,
 Antinous,Theta,,Aquilae,,,2,{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},,,,,,,
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Apamvatsa,,74,Virginis,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Apdu,Gamma,,Trianguli,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Arcalis,,,,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Arcturus,Alpha,16,Bootis,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Arkab Posterior,Beta-2,,Sagittarii,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Arkab Prior,Beta-1,,Sagittarii,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Arneb,Alpha,,Leporis,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Ascella,Zeta,,Sagittarii,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Asellus Australis,Delta,,Cancri,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Asellus Borealis,Gamma,,Cancri,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Asellus Primus,Theta,,Bootis,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Asellus Secundus,Iota,,Bootis,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Asellus Tertius,Kappa,,Bootis,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Ashlesha,Epsilon,,Hyrdae,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Aspidiske,Iota,,Carinae,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Asterope,,21,Tauri,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Asuusiha,Tau,22,Herculis,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Atakoraka,,,,,WASP-64,{{#stars}},{{sys age}},{{dex}},Y,{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Athebyne,Eta,14,Draconis,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Atik,Omicron,38,Persei,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Atlas,,27,Tauri,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Atria,Alpha,,Trianguli Australis,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Aurwandilsta,Iota,14,Coronae Borealis,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-,,,,,,,,,,,,,,,,,,,,,,,,,
 Avior,Epsilon,,Carinae,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 INSERT MORE STARS WITH PROPER NAMES,,,,,,,,,,,,,,,,,,,,,,,,,
