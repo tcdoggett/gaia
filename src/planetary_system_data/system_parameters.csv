@@ -691,14 +691,37 @@ Zhang,,,,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectyp
 Zhou,,,,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
 Zibal,,,,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
 Zosma,,,,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-Zubenelgenubi,,,,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-Zubenelhakrabi,,,,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
+Zubenelgenubi,Alpha-2,,Librae,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
+Zubenelhakrabi,Gamma,,Librae,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
 Zubeneschamali,Beta,,Librae,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
-Zuoqi,,,,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
+Zuoqi,Delta,,Sagittae,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Alpha,,,,,,,,,,,,,,,,,,,,,,,,
 ,Beta,,,,,,,,,,,,,,,,,,,,,,,,
+,Gamma,,,,,,,,,,,,,,,,,,,,,,,,
 ,Delta,,,,,,,,,,,,,,,,,,,,,,,,
+,Epsilon,,,,,,,,,,,,,,,,,,,,,,,,
+,Zeta,,,,,,,,,,,,,,,,,,,,,,,,
 ,,,,,,,,,,,,,,,,,,,,,,,,,
 ,Eta,,Librae,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
 ,Eta,,Ursae Minoris,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,Theta,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,
+Iota Octantis,Iota,,Octantis,,,{{#stars}},{{sys age}},{{dex}},{{exoplanets}},{{spectype1}},{{spectype2}},{{spectype3}},{{spectype4}},{{mass1}},{{radius1}},{{temp1}},{{mass2}},{{radius2}},{{temp2}},{{mass3}},{{radius3}},{{temp3}},{{mass4}},{{radius4}},{{temp4}}
+,,,,,,,,,,,,,,,,,,,,,,,,,
+,Kappa,,,,, ,,,,,,,,,,,,,,,,,,,
+,Lambda,,,,,,,,,,,,,,,,,,,,,,,,
+,Mu,,,,,,,,,,,,,,,,,,,,,,,,
+,Nu,,,,,,,,,,,,,,,,,,,,,,,,
+,Xi,,,,,,,,,,,,,,,,,,,,,,,,
+,Omicron,,,,,,,,,,,,,,,,,,,,,,,,
+,Pi,,,,,,,,,,,,,,,,,,,,,,,,
+,Rho,,,,,,,,,,,,,,,,,,,,,,,,
+,Sigma,,,,,,,,,,,,,,,,,,,,,,,,
+,Tau,,,,,,,,,,,,,,,,,,,,,,,,
+,Upsilon,,,,,,,,,,,,,,,,,,,,,,,,
+,Phi,,,,,,,,,,,,,,,,,,,,,,,,
+,Chi,,,,,,,,,,,,,,,,,,,,,,,,
+,Psi,,,,,,,,,,,,,,,,,,,,,,,,
+,Omega,,,,,,,,,,,,,,,,,,,,,,,,
