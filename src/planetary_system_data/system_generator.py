@@ -1,9 +1,37 @@
-# this is a python script to procedurally generate realistic (but fictional) star systems
-# primary reference: Zeigler, 2024 - "Architect of Worlds: Comprehensive World Design for Interstellar Fiction"
+#%%
 
-# will need to build in option to input real parameter values from stars in Gaia DR3 dataset - e.g. in similar manner to what 
-# has been done in Sectory_Query.py... or... take sectors that have been created by Sector_Query.py and generate matching 
-# system/planet data for the star systems in that sector
+print ("This is Python script to procedurally generate realistic (but fictional) star systems")
+print ("using the procedures laid out in 'Arcitect of Worlds: Comprehensive Worldbuidling' by Jon F. Zeigler")
+print ("published in 2024 by Ad Astra Games")
+print ("")
+print ("How do you wish to generate star systems today?")
+print ("Option 1 - generate fictional planetary systems around real stars (make sure file system_parameters.csv is present in this directory)")
+print ("Option 2 - generate fictional planetary systems around fictional stars")
+validoption = {"1", "2"}
+useroption = input ("Type Option Number: ")
+
+while useroption not in validoption:
+    useroption = input ("Type Option Number: ")
+
+if useroption == 1:
+    print ("okay, looking for system.parameters.csv")
+    input ("Press any key to continue")
+
+    # note - current version of system.parameters.csv contains all stars with proper names and/or Bayer Designations plus some other nearby stars
+    # future use case - system.parameters.csv can be replaced with other sets of real stars of interest (e.g. every star in a sector produced by Sector_Query.py)
+    # future use case - system.parameters.csv can be replaced with fictional sets of stars (e.g. every star in the New Eden Cluster in EVE Online)
+
+    # insert code which checks for presence of system.parameters.csv and proceeds from there
+
+if useroption == 2:
+    print ("and how many star systems do you want to create today?")
+    star_sys_number = input ("Enter Number of Stars: ")
+    print (f"okay, generating {star_sys_number} systems today")
+    input ("Press any key to continue")
+
+    # insert code which follows procedures in Zeigler to generate stellar mass, multiplicity, age, metallicity, etc.
+
+#%%
 
 # will also need to develop known_exoplanet.py module to handle cases where exoplanets have been detected / real exoplanet 
 # data can be ingested (pg. 176-178)
@@ -17,37 +45,37 @@
 
 # Step 1: Primary Star Mass
 
-from primary_star_mass import generate_primary_star
-Star_A = generate_primary_star()
-Mass_A = Star_A.mass
-print(f"Mass of Star A: {Star_A.mass} solar masses")
+# from primary_star_mass import generate_primary_star
+# Star_A = generate_primary_star()
+# Mass_A = Star_A.mass
+# print(f"Mass of Star A: {Star_A.mass} solar masses")
 
 # Step 2: Stellar Multiplicity
 
-from stellar_multiplicity import generate_number_of_stars
-Number_of_Stars = generate_number_of_stars(Star_A.mass)
-print(f"Number of Stars in System: {Number_of_Stars}")
+# from stellar_multiplicity import generate_number_of_stars
+# Number_of_Stars = generate_number_of_stars(Star_A.mass)
+# print(f"Number of Stars in System: {Number_of_Stars}")
 
 # Step 3: Arrange Components
 
-from arrange_components import Stellar_Arrangement
-print(f"Stellar Arranagement: {Stellar_Arrangement}")
+# from arrange_components import Stellar_Arrangement
+# print(f"Stellar Arranagement: {Stellar_Arrangement}")
 
 # Step 4: Star System Age
 
-from star_system_age import Population
-from star_system_age import system_age
+# from star_system_age import Population
+# from star_system_age import system_age
 
-print(f"Stellar Population: {Population}")
-system_age = round(system_age, 2)
-print(f"System Age: {system_age} Gyr")
+# print(f"Stellar Population: {Population}")
+# system_age = round(system_age, 2)
+# print(f"System Age: {system_age} Gyr")
 
 # Step 5: Star System Metallicity
 
-from star_system_metallicity import Metallicity
+# from star_system_metallicity import Metallicity
 
-Metallicity = round(Metallicity, 2)
-print(f"Metallicity: {Metallicity}")
+# Metallicity = round(Metallicity, 2)
+# print(f"Metallicity: {Metallicity}")
 
 # Step 6: Stellar Evolution
 # run stellar_evolution.py
